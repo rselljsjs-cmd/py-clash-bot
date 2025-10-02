@@ -43,7 +43,7 @@ _Join our [Discord server](https://discord.gg/nqKRkyq2UU) for support, updates, 
 9. **Start automation** - Start the bot, configure your settings, then click "Start" to begin automation
 
 **Troubleshooting MEmu:**
-- Switch render mode to Vulkan, DirectX, or OpenGL if experiencing issues
+- Switch render mode to DirectX or OpenGL if experiencing issues
 - Delete the VM and let the bot create a new one
 - Enable UEFI in BIOS if needed
 
